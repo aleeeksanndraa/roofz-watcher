@@ -1,0 +1,39 @@
+name: roofz-watch
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check Roofz
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python watch.py
+      - name: Save state
+        run: |
+          git config user.name "roofz-watcher"
+          git config user.email "roofz-watcher@users.noreply.github.com"
+          git add state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "update state"
+          elif [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt $((40*86400)) ]; then
+            # GitHub pauses scheduled workflows after 60 days without commits
+            git commit --allow-empty -m "keepalive"
+          fi
+          git push
