@@ -1,0 +1,86 @@
+{
+ "12931967": {
+  "slug": "duboisdomein-50-b30",
+  "stage": "occupied"
+ },
+ "13085621": {
+  "slug": "heiman-dullaertplein-105",
+  "stage": "occupied"
+ },
+ "13109176": {
+  "slug": "heiman-dullaertplein-83",
+  "stage": "available"
+ },
+ "13112545": {
+  "slug": "spaklerweg-14-c-29",
+  "stage": "occupied"
+ },
+ "13117165": {
+  "slug": "westzeedijk-501-e",
+  "stage": "available"
+ },
+ "13117455": {
+  "slug": "brede-hilledijk-156-g",
+  "stage": "option"
+ },
+ "13118036": {
+  "slug": "brede-hilledijk-102-j",
+  "stage": "occupied"
+ },
+ "13120701": {
+  "slug": "machinekamerplein-32-221",
+  "stage": "available"
+ },
+ "13120702": {
+  "slug": "machinekamerplein-32-284",
+  "stage": "occupied"
+ },
+ "13120703": {
+  "slug": "machinekamerplein-32-135",
+  "stage": "occupied"
+ },
+ "13120704": {
+  "slug": "machinekamerplein-32-224",
+  "stage": "option"
+ },
+ "13125214": {
+  "slug": "nieuwe-osdorpergracht-426-h",
+  "stage": "option"
+ },
+ "13126095": {
+  "slug": "schipluidenlaan-838",
+  "stage": "occupied"
+ },
+ "13126096": {
+  "slug": "schipluidenlaan-804",
+  "stage": "occupied"
+ },
+ "13126386": {
+  "slug": "machinekamerplein-32-166",
+  "stage": "occupied"
+ },
+ "13126676": {
+  "slug": "heiman-dullaertplein-150",
+  "stage": "available"
+ },
+ "13149557": {
+  "slug": "heiman-dullaertplein-126",
+  "stage": "option"
+ },
+ "13149850": {
+  "slug": "bodestraat-461",
+  "stage": "available"
+ },
+ "13149851": {
+  "slug": "westzeedijk-505-c",
+  "stage": "option"
+ },
+ "13149852": {
+  "slug": "nieuwe-osdorpergracht-382-a",
+  "stage": "option"
+ },
+ "13154834": {
+  "slug": "panamalaan-269",
+  "stage": "available"
+ }
+}
