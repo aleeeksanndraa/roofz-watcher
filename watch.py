@@ -72,7 +72,9 @@ def main():
         url = LISTING_URL.format(slug=slug)
         old = state.get(pid)
 
-        if old is None:
+        # New listing, or an old one re-listed (back to "available" from another stage)
+        relisted = old is not None and old["stage"] != "available" and stage == "available"
+        if old is None or relisted:
             if first_run or stage not in ("available", "option") or not matches(p):
                 continue
             title, body, is_studio = describe(p)
