@@ -3,12 +3,15 @@ import json
 import os
 import sys
 import urllib.request
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 API = ("https://www.roofz.eu/api/ms/listing/properties"
        "?perPage=100&page=1&sort=-published_at&filter%5Bimport_type%5D=RentResident")
 LISTING_URL = "https://www.roofz.eu/huur/woningen/{slug}"
 STATE = Path(__file__).with_name("state.json")
+HEARTBEAT = Path(__file__).with_name("heartbeat.txt")
 
 CITY = "amsterdam"
 MAX_COLD_RENT = 1499      # skip anything at €1,500+ cold rent
@@ -100,6 +103,22 @@ def main():
                priority="default", tags="white_check_mark")
 
     STATE.write_text(json.dumps(new_state, indent=1, sort_keys=True) + "\n")
+    heartbeat(listings)
+
+
+def heartbeat(listings):
+    """Quiet daily 'still alive' message around 09:00 Amsterdam time."""
+    now = datetime.now(ZoneInfo("Europe/Amsterdam"))
+    today = now.date().isoformat()
+    if now.hour < 9 or (HEARTBEAT.exists() and HEARTBEAT.read_text().strip() == today):
+        return
+    ams = [p for p in listings if (p["address"].get("location") or "").lower() == CITY
+           and p["stage"] in ("available", "option")]
+    notify("Вотчер работает ✅",
+           f"Проверяю Roofz каждую минуту. В Амстердаме сейчас {len(ams)} свободных/под опцией.",
+           "https://www.roofz.eu/huur/woningen?filter=location:amsterdam",
+           priority="low", tags="white_check_mark")
+    HEARTBEAT.write_text(today + "\n")
 
 
 if __name__ == "__main__":

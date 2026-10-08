@@ -1,12 +1,15 @@
 name: roofz-watch
 
+# One long-running job checks Roofz every minute for ~5h45m, then starts its own
+# successor. The hourly cron is only a backup in case the chain ever breaks.
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: watch
@@ -15,25 +18,30 @@ concurrency:
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Check Roofz
+      - name: Check Roofz every minute
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-        run: python watch.py
-      - name: Save state
         run: |
           git config user.name "roofz-watcher"
           git config user.email "roofz-watcher@users.noreply.github.com"
-          git add state.json
-          if ! git diff --cached --quiet; then
-            git commit -m "update state"
-          elif [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt $((40*86400)) ]; then
-            # GitHub pauses scheduled workflows after 60 days without commits
-            git commit --allow-empty -m "keepalive"
-          fi
-          git push
+          end=$(( $(date +%s) + 345*60 ))
+          while [ "$(date +%s)" -lt "$end" ]; do
+            python watch.py || echo "check failed, retrying next minute"
+            git add state.json heartbeat.txt 2>/dev/null
+            if ! git diff --cached --quiet; then
+              git commit -q -m "update state"
+              git pull -q --rebase && git push -q || echo "push failed"
+            fi
+            sleep 60
+          done
+      - name: Start next run
+        if: success() || failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run watch.yml --repo "$GITHUB_REPOSITORY"
