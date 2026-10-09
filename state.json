@@ -21,19 +21,11 @@
  },
  "13117455": {
   "slug": "brede-hilledijk-156-g",
-  "stage": "option"
- },
- "13118036": {
-  "slug": "brede-hilledijk-102-j",
   "stage": "occupied"
  },
  "13120701": {
   "slug": "machinekamerplein-32-221",
   "stage": "available"
- },
- "13120702": {
-  "slug": "machinekamerplein-32-284",
-  "stage": "occupied"
  },
  "13120703": {
   "slug": "machinekamerplein-32-135",
@@ -53,10 +45,6 @@
  },
  "13126096": {
   "slug": "schipluidenlaan-804",
-  "stage": "occupied"
- },
- "13126386": {
-  "slug": "machinekamerplein-32-166",
   "stage": "occupied"
  },
  "13126676": {
