@@ -33,7 +33,7 @@
  },
  "13120704": {
   "slug": "machinekamerplein-32-224",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13125214": {
   "slug": "nieuwe-osdorpergracht-426-h",
@@ -57,7 +57,7 @@
  },
  "13149850": {
   "slug": "bodestraat-461",
-  "stage": "available"
+  "stage": "option"
  },
  "13149851": {
   "slug": "westzeedijk-505-c",
