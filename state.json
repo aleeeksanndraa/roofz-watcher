@@ -19,10 +19,6 @@
   "slug": "westzeedijk-501-e",
   "stage": "available"
  },
- "13117455": {
-  "slug": "brede-hilledijk-156-g",
-  "stage": "occupied"
- },
  "13120701": {
   "slug": "machinekamerplein-32-221",
   "stage": "available"
@@ -57,7 +53,7 @@
  },
  "13149850": {
   "slug": "bodestraat-461",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13149851": {
   "slug": "westzeedijk-505-c",
