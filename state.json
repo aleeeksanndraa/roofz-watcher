@@ -1,7 +1,7 @@
 {
  "13085621": {
   "slug": "heiman-dullaertplein-105",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13109176": {
   "slug": "heiman-dullaertplein-83",
@@ -22,5 +22,29 @@
  "13154834": {
   "slug": "panamalaan-269",
   "stage": "option"
+ },
+ "13210254": {
+  "slug": "machinekamerplein-32-113",
+  "stage": "available"
+ },
+ "13210255": {
+  "slug": "machinekamerplein-32-026",
+  "stage": "available"
+ },
+ "13210256": {
+  "slug": "machinekamerplein-32-005",
+  "stage": "available"
+ },
+ "13210257": {
+  "slug": "machinekamerplein-32-006",
+  "stage": "available"
+ },
+ "13210258": {
+  "slug": "machinekamerplein-32-277",
+  "stage": "available"
+ },
+ "13210259": {
+  "slug": "machinekamerplein-32-063",
+  "stage": "available"
  }
 }
