@@ -21,7 +21,7 @@
  },
  "13154834": {
   "slug": "panamalaan-269",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13210254": {
   "slug": "machinekamerplein-32-113",
@@ -29,7 +29,7 @@
  },
  "13210255": {
   "slug": "machinekamerplein-32-026",
-  "stage": "available"
+  "stage": "option"
  },
  "13210256": {
   "slug": "machinekamerplein-32-005",
@@ -45,6 +45,10 @@
  },
  "13210259": {
   "slug": "machinekamerplein-32-063",
+  "stage": "available"
+ },
+ "13214670": {
+  "slug": "machinekamerplein-32-102",
   "stage": "available"
  }
 }
