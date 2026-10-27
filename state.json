@@ -13,7 +13,7 @@
  },
  "13210254": {
   "slug": "machinekamerplein-32-113",
-  "stage": "available"
+  "stage": "option"
  },
  "13210255": {
   "slug": "machinekamerplein-32-026",
@@ -33,6 +33,46 @@
  },
  "13214670": {
   "slug": "machinekamerplein-32-102",
+  "stage": "available"
+ },
+ "13220745": {
+  "slug": "machinekamerplein-32-252",
+  "stage": "available"
+ },
+ "13220746": {
+  "slug": "bodestraat-331",
+  "stage": "available"
+ },
+ "13220747": {
+  "slug": "machinekamerplein-32-312",
+  "stage": "available"
+ },
+ "13220748": {
+  "slug": "bodestraat-305",
+  "stage": "available"
+ },
+ "13220749": {
+  "slug": "machinekamerplein-32-310",
+  "stage": "available"
+ },
+ "13220750": {
+  "slug": "bodestraat-353",
+  "stage": "available"
+ },
+ "13220751": {
+  "slug": "nieuwe-osdorpergracht-418-m",
+  "stage": "available"
+ },
+ "13220752": {
+  "slug": "bodestraat-371",
+  "stage": "available"
+ },
+ "13220753": {
+  "slug": "machinekamerplein-32-175",
+  "stage": "available"
+ },
+ "13220754": {
+  "slug": "nieuwe-osdorpergracht-404-g",
   "stage": "available"
  }
 }
