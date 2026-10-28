@@ -13,7 +13,7 @@
  },
  "13210254": {
   "slug": "machinekamerplein-32-113",
-  "stage": "option"
+  "stage": "available"
  },
  "13210255": {
   "slug": "machinekamerplein-32-026",
@@ -85,6 +85,10 @@
  },
  "13223504": {
   "slug": "brede-hilledijk-142-n",
+  "stage": "available"
+ },
+ "13224116": {
+  "slug": "spaklerweg-14-e-21",
   "stage": "available"
  }
 }
