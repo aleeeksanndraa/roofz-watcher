@@ -57,7 +57,7 @@
  },
  "13220750": {
   "slug": "bodestraat-353",
-  "stage": "available"
+  "stage": "occupied"
  },
  "13220752": {
   "slug": "bodestraat-371",
@@ -85,11 +85,11 @@
  },
  "13224116": {
   "slug": "spaklerweg-14-e-21",
-  "stage": "available"
+  "stage": "option"
  },
  "13224422": {
   "slug": "spaklerweg-14-g-14",
-  "stage": "available"
+  "stage": "option"
  },
  "13224423": {
   "slug": "spaklerweg-14-f-1",
@@ -101,6 +101,10 @@
  },
  "13224730": {
   "slug": "duboisdomein-50-d71",
+  "stage": "available"
+ },
+ "13225053": {
+  "slug": "philitelaan-67-34",
   "stage": "available"
  }
 }
