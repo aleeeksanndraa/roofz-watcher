@@ -61,7 +61,7 @@
  },
  "13220751": {
   "slug": "nieuwe-osdorpergracht-418-m",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13220752": {
   "slug": "bodestraat-371",
@@ -73,6 +73,18 @@
  },
  "13220754": {
   "slug": "nieuwe-osdorpergracht-404-g",
-  "stage": "option"
+  "stage": "occupied"
+ },
+ "13223502": {
+  "slug": "brede-hilledijk-102-c",
+  "stage": "available"
+ },
+ "13223503": {
+  "slug": "brede-hilledijk-104-n",
+  "stage": "available"
+ },
+ "13223504": {
+  "slug": "brede-hilledijk-142-n",
+  "stage": "available"
  }
 }
