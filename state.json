@@ -55,10 +55,6 @@
   "slug": "machinekamerplein-32-310",
   "stage": "available"
  },
- "13220750": {
-  "slug": "bodestraat-353",
-  "stage": "occupied"
- },
  "13220752": {
   "slug": "bodestraat-371",
   "stage": "available"
@@ -66,10 +62,6 @@
  "13220753": {
   "slug": "machinekamerplein-32-175",
   "stage": "available"
- },
- "13220754": {
-  "slug": "nieuwe-osdorpergracht-404-g",
-  "stage": "occupied"
  },
  "13223502": {
   "slug": "brede-hilledijk-102-c",
@@ -105,6 +97,10 @@
  },
  "13225053": {
   "slug": "philitelaan-67-34",
+  "stage": "available"
+ },
+ "13227328": {
+  "slug": "nieuwe-osdorpergracht-404-s",
   "stage": "available"
  }
 }
