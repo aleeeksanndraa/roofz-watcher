@@ -69,7 +69,7 @@
  },
  "13223503": {
   "slug": "brede-hilledijk-104-n",
-  "stage": "available"
+  "stage": "option"
  },
  "13223504": {
   "slug": "brede-hilledijk-142-n",
@@ -117,6 +117,10 @@
  },
  "13227638": {
   "slug": "jan-van-galenstraat-642",
+  "stage": "available"
+ },
+ "13227945": {
+  "slug": "brede-hilledijk-152-l",
   "stage": "available"
  }
 }
