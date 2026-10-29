@@ -109,7 +109,7 @@
  },
  "13227636": {
   "slug": "jan-van-galenstraat-620",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13227637": {
   "slug": "jan-van-galenstraat-526",
@@ -137,6 +137,10 @@
  },
  "13229476": {
   "slug": "duboisdomein-50-e91",
+  "stage": "available"
+ },
+ "13229781": {
+  "slug": "brede-hilledijk-118-e",
   "stage": "available"
  }
 }
