@@ -9,7 +9,7 @@
  },
  "13126676": {
   "slug": "heiman-dullaertplein-150",
-  "stage": "available"
+  "stage": "option"
  },
  "13210254": {
   "slug": "machinekamerplein-32-113",
@@ -101,6 +101,10 @@
  },
  "13227328": {
   "slug": "nieuwe-osdorpergracht-404-s",
+  "stage": "available"
+ },
+ "13227635": {
+  "slug": "brede-hilledijk-100-g",
   "stage": "available"
  }
 }
