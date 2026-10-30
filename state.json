@@ -61,7 +61,7 @@
  },
  "13223502": {
   "slug": "brede-hilledijk-102-c",
-  "stage": "available"
+  "stage": "option"
  },
  "13223503": {
   "slug": "brede-hilledijk-104-n",
@@ -73,7 +73,7 @@
  },
  "13224116": {
   "slug": "spaklerweg-14-e-21",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13224422": {
   "slug": "spaklerweg-14-g-14",
@@ -93,7 +93,7 @@
  },
  "13225053": {
   "slug": "philitelaan-67-34",
-  "stage": "available"
+  "stage": "option"
  },
  "13227328": {
   "slug": "nieuwe-osdorpergracht-404-s",
