@@ -101,15 +101,11 @@
  },
  "13227636": {
   "slug": "jan-van-galenstraat-620",
-  "stage": "occupied"
- },
- "13227637": {
-  "slug": "jan-van-galenstraat-526",
-  "stage": "occupied"
+  "stage": "option"
  },
  "13227638": {
   "slug": "jan-van-galenstraat-642",
-  "stage": "available"
+  "stage": "option"
  },
  "13227945": {
   "slug": "brede-hilledijk-152-l",
