@@ -81,7 +81,7 @@
  },
  "13227636": {
   "slug": "jan-van-galenstraat-620",
-  "stage": "option"
+  "stage": "available"
  },
  "13227638": {
   "slug": "jan-van-galenstraat-642",
@@ -125,6 +125,14 @@
  },
  "13239057": {
   "slug": "machinekamerplein-32-305",
+  "stage": "available"
+ },
+ "13250199": {
+  "slug": "westzeedijk-501-n",
+  "stage": "available"
+ },
+ "13250200": {
+  "slug": "heiman-dullaertplein-165",
   "stage": "available"
  }
 }
