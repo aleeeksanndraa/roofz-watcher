@@ -85,7 +85,7 @@
  },
  "13228555": {
   "slug": "duboisdomein-50-a31",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13229474": {
   "slug": "brede-hilledijk-120-h",
@@ -101,7 +101,7 @@
  },
  "13233097": {
   "slug": "duboisdomein-50-e89",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13235710": {
   "slug": "westzeedijk-507-c",
@@ -126,5 +126,9 @@
  "13250878": {
   "slug": "schipluidenlaan-596",
   "stage": "option"
+ },
+ "13253804": {
+  "slug": "duboisdomein-50-e59",
+  "stage": "available"
  }
 }
