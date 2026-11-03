@@ -129,7 +129,7 @@
  },
  "13253804": {
   "slug": "duboisdomein-50-e59",
-  "stage": "available"
+  "stage": "option"
  },
  "13254742": {
   "slug": "jan-van-galenstraat-520",
@@ -137,6 +137,22 @@
  },
  "13254743": {
   "slug": "jan-van-galenstraat-438",
+  "stage": "available"
+ },
+ "13255353": {
+  "slug": "panamalaan-393",
+  "stage": "available"
+ },
+ "13255354": {
+  "slug": "panamalaan-391",
+  "stage": "available"
+ },
+ "13255355": {
+  "slug": "panamalaan-279",
+  "stage": "available"
+ },
+ "13255356": {
+  "slug": "panamalaan-283",
   "stage": "available"
  }
 }
