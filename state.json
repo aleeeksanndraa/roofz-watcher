@@ -25,11 +25,11 @@
  },
  "13214670": {
   "slug": "machinekamerplein-32-102",
-  "stage": "available"
+  "stage": "option"
  },
  "13220745": {
   "slug": "machinekamerplein-32-252",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13220746": {
   "slug": "bodestraat-331",
@@ -37,11 +37,11 @@
  },
  "13220747": {
   "slug": "machinekamerplein-32-312",
-  "stage": "available"
+  "stage": "option"
  },
  "13220748": {
   "slug": "bodestraat-305",
-  "stage": "available"
+  "stage": "option"
  },
  "13220749": {
   "slug": "machinekamerplein-32-310",
@@ -49,7 +49,7 @@
  },
  "13220752": {
   "slug": "bodestraat-371",
-  "stage": "available"
+  "stage": "option"
  },
  "13223502": {
   "slug": "brede-hilledijk-102-c",
