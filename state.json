@@ -61,7 +61,7 @@
  },
  "13224116": {
   "slug": "spaklerweg-14-e-21",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13224423": {
   "slug": "spaklerweg-14-f-1",
@@ -81,7 +81,7 @@
  },
  "13229475": {
   "slug": "brede-hilledijk-114-e",
-  "stage": "available"
+  "stage": "option"
  },
  "13229781": {
   "slug": "brede-hilledijk-118-e",
@@ -121,7 +121,7 @@
  },
  "13254743": {
   "slug": "jan-van-galenstraat-438",
-  "stage": "occupied"
+  "stage": "option"
  },
  "13255353": {
   "slug": "panamalaan-393",
