@@ -65,7 +65,7 @@
  },
  "13224423": {
   "slug": "spaklerweg-14-f-1",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13227328": {
   "slug": "nieuwe-osdorpergracht-404-s",
@@ -97,11 +97,11 @@
  },
  "13250199": {
   "slug": "westzeedijk-501-n",
-  "stage": "occupied"
+  "stage": "available"
  },
  "13250200": {
   "slug": "heiman-dullaertplein-165",
-  "stage": "available"
+  "stage": "option"
  },
  "13250877": {
   "slug": "heiman-dullaertplein-94",
@@ -137,6 +137,10 @@
  },
  "13255356": {
   "slug": "panamalaan-283",
+  "stage": "available"
+ },
+ "13259461": {
+  "slug": "jan-van-galenstraat-884",
   "stage": "available"
  }
 }
