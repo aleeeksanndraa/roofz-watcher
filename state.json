@@ -57,7 +57,7 @@
  },
  "13223504": {
   "slug": "brede-hilledijk-142-n",
-  "stage": "available"
+  "stage": "option"
  },
  "13224116": {
   "slug": "spaklerweg-14-e-21",
@@ -73,7 +73,7 @@
  },
  "13227636": {
   "slug": "jan-van-galenstraat-620",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13227638": {
   "slug": "jan-van-galenstraat-642",
@@ -85,10 +85,6 @@
  },
  "13228555": {
   "slug": "duboisdomein-50-a31",
-  "stage": "occupied"
- },
- "13229474": {
-  "slug": "brede-hilledijk-120-h",
   "stage": "occupied"
  },
  "13229475": {
@@ -137,7 +133,7 @@
  },
  "13254743": {
   "slug": "jan-van-galenstraat-438",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13255353": {
   "slug": "panamalaan-393",
