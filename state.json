@@ -75,10 +75,6 @@
   "slug": "jan-van-galenstraat-620",
   "stage": "occupied"
  },
- "13227638": {
-  "slug": "jan-van-galenstraat-642",
-  "stage": "occupied"
- },
  "13227945": {
   "slug": "brede-hilledijk-152-l",
   "stage": "available"
@@ -109,7 +105,7 @@
  },
  "13250199": {
   "slug": "westzeedijk-501-n",
-  "stage": "available"
+  "stage": "option"
  },
  "13250200": {
   "slug": "heiman-dullaertplein-165",
