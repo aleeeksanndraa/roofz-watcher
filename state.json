@@ -79,10 +79,6 @@
   "slug": "brede-hilledijk-152-l",
   "stage": "available"
  },
- "13228555": {
-  "slug": "duboisdomein-50-a31",
-  "stage": "occupied"
- },
  "13229475": {
   "slug": "brede-hilledijk-114-e",
   "stage": "available"
@@ -90,10 +86,6 @@
  "13229781": {
   "slug": "brede-hilledijk-118-e",
   "stage": "available"
- },
- "13233097": {
-  "slug": "duboisdomein-50-e89",
-  "stage": "occupied"
  },
  "13235710": {
   "slug": "westzeedijk-507-c",
@@ -105,7 +97,7 @@
  },
  "13250199": {
   "slug": "westzeedijk-501-n",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13250200": {
   "slug": "heiman-dullaertplein-165",
@@ -121,7 +113,7 @@
  },
  "13253804": {
   "slug": "duboisdomein-50-e59",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13254742": {
   "slug": "jan-van-galenstraat-520",
