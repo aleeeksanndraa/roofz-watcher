@@ -55,10 +55,6 @@
   "slug": "spaklerweg-14-e-21",
   "stage": "occupied"
  },
- "13224423": {
-  "slug": "spaklerweg-14-f-1",
-  "stage": "occupied"
- },
  "13227328": {
   "slug": "nieuwe-osdorpergracht-404-s",
   "stage": "available"
@@ -133,14 +129,14 @@
  },
  "13265347": {
   "slug": "duboisdomein-50-d40",
-  "stage": "available"
+  "stage": "occupied"
  },
  "13265348": {
   "slug": "duboisdomein-50-b43",
-  "stage": "available"
+  "stage": "occupied"
  },
  "13266568": {
   "slug": "duboisdomein-50-d14",
-  "stage": "available"
+  "stage": "occupied"
  }
 }
