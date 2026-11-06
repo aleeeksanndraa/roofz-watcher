@@ -69,7 +69,7 @@
  },
  "13229475": {
   "slug": "brede-hilledijk-114-e",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13229781": {
   "slug": "brede-hilledijk-118-e",
@@ -109,7 +109,7 @@
  },
  "13255354": {
   "slug": "panamalaan-391",
-  "stage": "available"
+  "stage": "option"
  },
  "13255355": {
   "slug": "panamalaan-279",
@@ -117,7 +117,7 @@
  },
  "13255356": {
   "slug": "panamalaan-283",
-  "stage": "available"
+  "stage": "option"
  },
  "13260674": {
   "slug": "brede-hilledijk-110-g",
@@ -137,6 +137,6 @@
  },
  "13268557": {
   "slug": "panamalaan-217",
-  "stage": "available"
+  "stage": "option"
  }
 }
