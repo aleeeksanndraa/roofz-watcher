@@ -73,7 +73,7 @@
  },
  "13235710": {
   "slug": "westzeedijk-507-c",
-  "stage": "available"
+  "stage": "option"
  },
  "13239057": {
   "slug": "machinekamerplein-32-305",
@@ -85,7 +85,7 @@
  },
  "13250877": {
   "slug": "heiman-dullaertplein-94",
-  "stage": "available"
+  "stage": "option"
  },
  "13250878": {
   "slug": "schipluidenlaan-596",
@@ -101,7 +101,7 @@
  },
  "13255354": {
   "slug": "panamalaan-391",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13255355": {
   "slug": "panamalaan-279",
@@ -109,7 +109,7 @@
  },
  "13255356": {
   "slug": "panamalaan-283",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13260674": {
   "slug": "brede-hilledijk-110-g",
@@ -129,6 +129,6 @@
  },
  "13268557": {
   "slug": "panamalaan-217",
-  "stage": "option"
+  "stage": "occupied"
  }
 }
