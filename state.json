@@ -109,7 +109,7 @@
  },
  "13255353": {
   "slug": "panamalaan-393",
-  "stage": "option"
+  "stage": "available"
  },
  "13255354": {
   "slug": "panamalaan-391",
@@ -138,5 +138,9 @@
  "13266568": {
   "slug": "duboisdomein-50-d14",
   "stage": "occupied"
+ },
+ "13268557": {
+  "slug": "panamalaan-217",
+  "stage": "available"
  }
 }
