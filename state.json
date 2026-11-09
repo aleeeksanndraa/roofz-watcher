@@ -61,7 +61,7 @@
  },
  "13235710": {
   "slug": "westzeedijk-507-c",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13239057": {
   "slug": "machinekamerplein-32-305",
@@ -73,7 +73,7 @@
  },
  "13250877": {
   "slug": "heiman-dullaertplein-94",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13250878": {
   "slug": "schipluidenlaan-596",
@@ -101,7 +101,7 @@
  },
  "13260674": {
   "slug": "brede-hilledijk-110-g",
-  "stage": "option"
+  "stage": "available"
  },
  "13265347": {
   "slug": "duboisdomein-50-d40",
