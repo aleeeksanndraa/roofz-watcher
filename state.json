@@ -17,19 +17,7 @@
  },
  "13210257": {
   "slug": "machinekamerplein-32-006",
-  "stage": "available"
- },
- "13210259": {
-  "slug": "machinekamerplein-32-063",
-  "stage": "occupied"
- },
- "13214670": {
-  "slug": "machinekamerplein-32-102",
-  "stage": "occupied"
- },
- "13220745": {
-  "slug": "machinekamerplein-32-252",
-  "stage": "occupied"
+  "stage": "option"
  },
  "13220746": {
   "slug": "bodestraat-331",
