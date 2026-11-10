@@ -49,7 +49,7 @@
  },
  "13229781": {
   "slug": "brede-hilledijk-118-e",
-  "stage": "available"
+  "stage": "option"
  },
  "13235710": {
   "slug": "westzeedijk-507-c",
@@ -57,7 +57,7 @@
  },
  "13239057": {
   "slug": "machinekamerplein-32-305",
-  "stage": "option"
+  "stage": "available"
  },
  "13250199": {
   "slug": "westzeedijk-501-n",
@@ -93,7 +93,7 @@
  },
  "13260674": {
   "slug": "brede-hilledijk-110-g",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13268557": {
   "slug": "panamalaan-217",
