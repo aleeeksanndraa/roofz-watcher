@@ -39,10 +39,6 @@
   "slug": "bodestraat-371",
   "stage": "available"
  },
- "13224116": {
-  "slug": "spaklerweg-14-e-21",
-  "stage": "occupied"
- },
  "13227328": {
   "slug": "nieuwe-osdorpergracht-404-s",
   "stage": "available"
@@ -97,7 +93,7 @@
  },
  "13260674": {
   "slug": "brede-hilledijk-110-g",
-  "stage": "available"
+  "stage": "option"
  },
  "13268557": {
   "slug": "panamalaan-217",
