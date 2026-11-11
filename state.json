@@ -41,7 +41,7 @@
  },
  "13227328": {
   "slug": "nieuwe-osdorpergracht-404-s",
-  "stage": "available"
+  "stage": "option"
  },
  "13227945": {
   "slug": "brede-hilledijk-152-l",
@@ -71,10 +71,6 @@
   "slug": "schipluidenlaan-596",
   "stage": "option"
  },
- "13254743": {
-  "slug": "jan-van-galenstraat-438",
-  "stage": "occupied"
- },
  "13255353": {
   "slug": "panamalaan-393",
   "stage": "occupied"
@@ -89,10 +85,6 @@
  },
  "13255356": {
   "slug": "panamalaan-283",
-  "stage": "occupied"
- },
- "13260674": {
-  "slug": "brede-hilledijk-110-g",
   "stage": "occupied"
  },
  "13268557": {
