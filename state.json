@@ -21,7 +21,7 @@
  },
  "13210256": {
   "slug": "machinekamerplein-32-005",
-  "stage": "available"
+  "stage": "option"
  },
  "13220746": {
   "slug": "bodestraat-331",
@@ -93,6 +93,10 @@
  },
  "13317851": {
   "slug": "duboisdomein-50-b94",
+  "stage": "available"
+ },
+ "13318156": {
+  "slug": "schipluidenlaan-750",
   "stage": "available"
  }
 }
