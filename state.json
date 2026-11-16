@@ -85,10 +85,14 @@
  },
  "13316029": {
   "slug": "duboisdomein-50-e93",
-  "stage": "available"
+  "stage": "option"
  },
  "13316030": {
   "slug": "duboisdomein-50-a58",
+  "stage": "available"
+ },
+ "13317851": {
+  "slug": "duboisdomein-50-b94",
   "stage": "available"
  }
 }
