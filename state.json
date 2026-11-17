@@ -98,5 +98,17 @@
  "13318156": {
   "slug": "schipluidenlaan-750",
   "stage": "occupied"
+ },
+ "13321011": {
+  "slug": "nieuwe-osdorpergracht-364-f",
+  "stage": "available"
+ },
+ "13321012": {
+  "slug": "nieuwe-osdorpergracht-382-f",
+  "stage": "available"
+ },
+ "13321013": {
+  "slug": "nieuwe-osdorpergracht-396-n",
+  "stage": "available"
  }
 }
