@@ -101,7 +101,7 @@
  },
  "13321011": {
   "slug": "nieuwe-osdorpergracht-364-f",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13321012": {
   "slug": "nieuwe-osdorpergracht-382-f",
@@ -110,5 +110,9 @@
  "13321013": {
   "slug": "nieuwe-osdorpergracht-396-n",
   "stage": "occupied"
+ },
+ "13326146": {
+  "slug": "nieuwe-osdorpergracht-428-e",
+  "stage": "available"
  }
 }
