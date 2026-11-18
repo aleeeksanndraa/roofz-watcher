@@ -41,7 +41,7 @@
  },
  "13227328": {
   "slug": "nieuwe-osdorpergracht-404-s",
-  "stage": "option"
+  "stage": "available"
  },
  "13227945": {
   "slug": "brede-hilledijk-152-l",
@@ -89,10 +89,6 @@
  },
  "13317851": {
   "slug": "duboisdomein-50-b94",
-  "stage": "occupied"
- },
- "13321011": {
-  "slug": "nieuwe-osdorpergracht-364-f",
   "stage": "occupied"
  },
  "13321012": {
