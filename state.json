@@ -19,10 +19,6 @@
   "slug": "machinekamerplein-32-113",
   "stage": "available"
  },
- "13210256": {
-  "slug": "machinekamerplein-32-005",
-  "stage": "occupied"
- },
  "13220746": {
   "slug": "bodestraat-331",
   "stage": "available"
@@ -49,7 +45,7 @@
  },
  "13227945": {
   "slug": "brede-hilledijk-152-l",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13235710": {
   "slug": "westzeedijk-507-c",
@@ -77,7 +73,7 @@
  },
  "13299349": {
   "slug": "bodestraat-293",
-  "stage": "available"
+  "stage": "option"
  },
  "13304056": {
   "slug": "heiman-dullaertplein-108",
@@ -109,6 +105,6 @@
  },
  "13326146": {
   "slug": "nieuwe-osdorpergracht-428-e",
-  "stage": "available"
+  "stage": "option"
  }
 }
