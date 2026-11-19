@@ -21,7 +21,7 @@
  },
  "13220746": {
   "slug": "bodestraat-331",
-  "stage": "available"
+  "stage": "option"
  },
  "13220747": {
   "slug": "machinekamerplein-32-312",
@@ -75,28 +75,12 @@
   "slug": "heiman-dullaertplein-108",
   "stage": "occupied"
  },
- "13316029": {
-  "slug": "duboisdomein-50-e93",
-  "stage": "occupied"
- },
- "13316030": {
-  "slug": "duboisdomein-50-a58",
-  "stage": "occupied"
- },
- "13317851": {
-  "slug": "duboisdomein-50-b94",
-  "stage": "occupied"
- },
  "13321012": {
   "slug": "nieuwe-osdorpergracht-382-f",
   "stage": "option"
  },
- "13321013": {
-  "slug": "nieuwe-osdorpergracht-396-n",
-  "stage": "occupied"
- },
  "13326146": {
   "slug": "nieuwe-osdorpergracht-428-e",
-  "stage": "option"
+  "stage": "occupied"
  }
 }
