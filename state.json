@@ -21,7 +21,7 @@
  },
  "13220746": {
   "slug": "bodestraat-331",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13220747": {
   "slug": "machinekamerplein-32-312",
@@ -74,10 +74,6 @@
  "13304056": {
   "slug": "heiman-dullaertplein-108",
   "stage": "occupied"
- },
- "13321012": {
-  "slug": "nieuwe-osdorpergracht-382-f",
-  "stage": "option"
  },
  "13326146": {
   "slug": "nieuwe-osdorpergracht-428-e",
