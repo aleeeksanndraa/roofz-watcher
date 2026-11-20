@@ -25,7 +25,7 @@
  },
  "13220747": {
   "slug": "machinekamerplein-32-312",
-  "stage": "option"
+  "stage": "available"
  },
  "13220748": {
   "slug": "bodestraat-305",
@@ -49,11 +49,11 @@
  },
  "13239057": {
   "slug": "machinekamerplein-32-305",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13250877": {
   "slug": "heiman-dullaertplein-94",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13250878": {
   "slug": "schipluidenlaan-596",
@@ -66,10 +66,6 @@
  "13284915": {
   "slug": "machinekamerplein-32-301",
   "stage": "available"
- },
- "13299349": {
-  "slug": "bodestraat-293",
-  "stage": "occupied"
  },
  "13326146": {
   "slug": "nieuwe-osdorpergracht-428-e",
