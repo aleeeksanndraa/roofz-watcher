@@ -23,10 +23,6 @@
   "slug": "machinekamerplein-32-312",
   "stage": "available"
  },
- "13220748": {
-  "slug": "bodestraat-305",
-  "stage": "occupied"
- },
  "13220749": {
   "slug": "machinekamerplein-32-310",
   "stage": "available"
@@ -58,9 +54,5 @@
  "13284915": {
   "slug": "machinekamerplein-32-301",
   "stage": "available"
- },
- "13326146": {
-  "slug": "nieuwe-osdorpergracht-428-e",
-  "stage": "occupied"
  }
 }
