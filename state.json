@@ -53,7 +53,7 @@
  },
  "13351940": {
   "slug": "spaklerweg-14-d-2",
-  "stage": "option"
+  "stage": "available"
  },
  "13351941": {
   "slug": "nieuwe-osdorpergracht-430-e",
@@ -73,7 +73,7 @@
  },
  "13352859": {
   "slug": "bodestraat-261",
-  "stage": "available"
+  "stage": "option"
  },
  "13352860": {
   "slug": "panamalaan-341",
@@ -105,6 +105,10 @@
  },
  "13358717": {
   "slug": "philitelaan-67-199",
+  "stage": "available"
+ },
+ "13360941": {
+  "slug": "panamalaan-497",
   "stage": "available"
  }
 }
