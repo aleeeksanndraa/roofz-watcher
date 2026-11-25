@@ -17,11 +17,11 @@
  },
  "13210254": {
   "slug": "machinekamerplein-32-113",
-  "stage": "option"
+  "stage": "available"
  },
  "13220747": {
   "slug": "machinekamerplein-32-312",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13220749": {
   "slug": "machinekamerplein-32-310",
@@ -85,7 +85,7 @@
  },
  "13355982": {
   "slug": "duboisdomein-50-e61",
-  "stage": "option"
+  "stage": "occupied"
  },
  "13355983": {
   "slug": "spaklerweg-14-g-22",
