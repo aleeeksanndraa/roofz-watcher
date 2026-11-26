@@ -19,10 +19,6 @@
   "slug": "machinekamerplein-32-113",
   "stage": "available"
  },
- "13220747": {
-  "slug": "machinekamerplein-32-312",
-  "stage": "occupied"
- },
  "13220749": {
   "slug": "machinekamerplein-32-310",
   "stage": "option"
@@ -82,10 +78,6 @@
  "13355983": {
   "slug": "spaklerweg-14-g-22",
   "stage": "occupied"
- },
- "13358715": {
-  "slug": "philitelaan-67-13",
-  "stage": "available"
  },
  "13358716": {
   "slug": "philitelaan-67-29",
