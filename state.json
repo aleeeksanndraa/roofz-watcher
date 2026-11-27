@@ -33,7 +33,7 @@
  },
  "13284914": {
   "slug": "machinekamerplein-32-111",
-  "stage": "available"
+  "stage": "occupied"
  },
  "13284915": {
   "slug": "machinekamerplein-32-301",
@@ -69,7 +69,7 @@
  },
  "13355375": {
   "slug": "spaklerweg-14-f-4",
-  "stage": "available"
+  "stage": "option"
  },
  "13358716": {
   "slug": "philitelaan-67-29",
@@ -97,6 +97,18 @@
  },
  "13370379": {
   "slug": "brede-hilledijk-106-a",
+  "stage": "available"
+ },
+ "13371898": {
+  "slug": "machinekamerplein-32-211",
+  "stage": "available"
+ },
+ "13371899": {
+  "slug": "machinekamerplein-32-231",
+  "stage": "available"
+ },
+ "13371900": {
+  "slug": "machinekamerplein-32-100",
   "stage": "available"
  }
 }
